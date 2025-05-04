@@ -1,0 +1,9 @@
+streamlit
+streamlit-webrtc
+tensorflow
+opencv-python-headless
+numpy
+Pillow
+arabic-reshaper
+python-bidi
+av
